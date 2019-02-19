@@ -1,0 +1,6 @@
+FanFlatGeometry.translation
+======================================================
+
+.. currentmodule:: odl.tomo.geometry.conebeam
+
+.. autoattribute:: FanFlatGeometry.translation

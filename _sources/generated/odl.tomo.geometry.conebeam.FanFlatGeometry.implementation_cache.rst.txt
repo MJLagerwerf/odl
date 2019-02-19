@@ -1,0 +1,6 @@
+FanFlatGeometry.implementation_cache
+===============================================================
+
+.. currentmodule:: odl.tomo.geometry.conebeam
+
+.. autoattribute:: FanFlatGeometry.implementation_cache

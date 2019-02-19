@@ -1,0 +1,6 @@
+FanFlatGeometry.src_radius
+=====================================================
+
+.. currentmodule:: odl.tomo.geometry.conebeam
+
+.. autoattribute:: FanFlatGeometry.src_radius

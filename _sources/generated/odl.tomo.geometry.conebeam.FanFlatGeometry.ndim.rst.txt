@@ -1,0 +1,6 @@
+FanFlatGeometry.ndim
+===============================================
+
+.. currentmodule:: odl.tomo.geometry.conebeam
+
+.. autoattribute:: FanFlatGeometry.ndim

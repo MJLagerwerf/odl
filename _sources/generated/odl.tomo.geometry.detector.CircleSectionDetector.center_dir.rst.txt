@@ -1,0 +1,6 @@
+CircleSectionDetector.center_dir
+===========================================================
+
+.. currentmodule:: odl.tomo.geometry.detector
+
+.. autoattribute:: CircleSectionDetector.center_dir

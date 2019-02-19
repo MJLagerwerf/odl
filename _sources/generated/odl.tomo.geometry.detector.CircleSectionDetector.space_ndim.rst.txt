@@ -1,0 +1,6 @@
+CircleSectionDetector.space_ndim
+===========================================================
+
+.. currentmodule:: odl.tomo.geometry.detector
+
+.. autoattribute:: CircleSectionDetector.space_ndim

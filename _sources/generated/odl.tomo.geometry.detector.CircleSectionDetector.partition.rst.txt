@@ -1,0 +1,6 @@
+CircleSectionDetector.partition
+==========================================================
+
+.. currentmodule:: odl.tomo.geometry.detector
+
+.. autoattribute:: CircleSectionDetector.partition

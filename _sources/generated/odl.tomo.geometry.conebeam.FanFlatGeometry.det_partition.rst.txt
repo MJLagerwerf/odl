@@ -1,0 +1,6 @@
+FanFlatGeometry.det_partition
+========================================================
+
+.. currentmodule:: odl.tomo.geometry.conebeam
+
+.. autoattribute:: FanFlatGeometry.det_partition

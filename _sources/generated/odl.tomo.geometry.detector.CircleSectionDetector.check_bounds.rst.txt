@@ -1,0 +1,6 @@
+CircleSectionDetector.check_bounds
+=============================================================
+
+.. currentmodule:: odl.tomo.geometry.detector
+
+.. autoattribute:: CircleSectionDetector.check_bounds

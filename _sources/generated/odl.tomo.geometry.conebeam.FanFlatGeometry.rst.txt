@@ -1,0 +1,53 @@
+FanFlatGeometry
+==========================================
+
+.. currentmodule:: odl.tomo.geometry.conebeam
+
+.. autoclass:: FanFlatGeometry
+   :show-inheritance:
+   
+   
+   .. automethod:: __init__
+   
+      
+   
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         FanFlatGeometry.__getitem__
+         FanFlatGeometry.det_axis
+         FanFlatGeometry.det_point_position
+         FanFlatGeometry.det_refpoint
+         FanFlatGeometry.det_to_src
+         FanFlatGeometry.frommatrix
+         FanFlatGeometry.rotation_matrix
+         FanFlatGeometry.src_position
+   
+
+    
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         FanFlatGeometry.angles
+         FanFlatGeometry.check_bounds
+         FanFlatGeometry.det_axis_init
+         FanFlatGeometry.det_grid
+         FanFlatGeometry.det_params
+         FanFlatGeometry.det_partition
+         FanFlatGeometry.det_radius
+         FanFlatGeometry.detector
+         FanFlatGeometry.grid
+         FanFlatGeometry.implementation_cache
+         FanFlatGeometry.motion_grid
+         FanFlatGeometry.motion_params
+         FanFlatGeometry.motion_partition
+         FanFlatGeometry.ndim
+         FanFlatGeometry.params
+         FanFlatGeometry.partition
+         FanFlatGeometry.src_radius
+         FanFlatGeometry.src_to_det_init
+         FanFlatGeometry.translation
+   
+   

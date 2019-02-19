@@ -1,0 +1,6 @@
+FanFlatGeometry.angles
+=================================================
+
+.. currentmodule:: odl.tomo.geometry.conebeam
+
+.. autoattribute:: FanFlatGeometry.angles

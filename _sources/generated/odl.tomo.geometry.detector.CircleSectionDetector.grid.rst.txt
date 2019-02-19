@@ -1,0 +1,6 @@
+CircleSectionDetector.grid
+=====================================================
+
+.. currentmodule:: odl.tomo.geometry.detector
+
+.. autoattribute:: CircleSectionDetector.grid

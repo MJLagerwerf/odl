@@ -1,0 +1,6 @@
+CircleSectionDetector.tangent_at_0
+=============================================================
+
+.. currentmodule:: odl.tomo.geometry.detector
+
+.. autoattribute:: CircleSectionDetector.tangent_at_0

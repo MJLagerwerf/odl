@@ -1,0 +1,6 @@
+CircleSectionDetector.params
+=======================================================
+
+.. currentmodule:: odl.tomo.geometry.detector
+
+.. autoattribute:: CircleSectionDetector.params

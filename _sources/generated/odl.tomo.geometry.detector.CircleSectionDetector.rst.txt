@@ -1,0 +1,42 @@
+CircleSectionDetector
+================================================
+
+.. currentmodule:: odl.tomo.geometry.detector
+
+.. autoclass:: CircleSectionDetector
+   :show-inheritance:
+   
+   
+   .. automethod:: __init__
+   
+      
+   
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         CircleSectionDetector.surface
+         CircleSectionDetector.surface_deriv
+         CircleSectionDetector.surface_measure
+         CircleSectionDetector.surface_normal
+   
+
+    
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         CircleSectionDetector.center
+         CircleSectionDetector.center_dir
+         CircleSectionDetector.check_bounds
+         CircleSectionDetector.grid
+         CircleSectionDetector.ndim
+         CircleSectionDetector.params
+         CircleSectionDetector.partition
+         CircleSectionDetector.radius
+         CircleSectionDetector.shape
+         CircleSectionDetector.size
+         CircleSectionDetector.space_ndim
+         CircleSectionDetector.tangent_at_0
+   
+   

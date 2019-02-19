@@ -1,0 +1,6 @@
+FanFlatGeometry.detector
+===================================================
+
+.. currentmodule:: odl.tomo.geometry.conebeam
+
+.. autoattribute:: FanFlatGeometry.detector
